@@ -1,0 +1,10 @@
+nome = print(input("Digite seu nome: "))
+nota1 = print(input("Digite a primeira nota: "))
+nota2 = print(input("Digite a segunda nota: "))
+nota3 = print(input("Digite a terceira nota: "))
+media = (nota1 + nota2 + nota3) /3
+print("Nome do aluno: ", nome)
+print("Nota 1: ", nota1)
+print("Nota 2: ", nota2)
+print("Nota 3: ", nota3)
+print("Media: ", media)
